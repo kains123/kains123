@@ -1,3 +1,3 @@
-### Hi there 👋
+### Hi I'm YeJin 👋
 
-![YeJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kains123&show_icons=true&theme=radical)
+Intersted in C++, Javascript, Python
